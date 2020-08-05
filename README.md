@@ -1,2 +1,10 @@
-# NLW-API-Proffy
-Api da aplicação Proffy - NodeJS / SQLite
+# funcionalidades
+
+# /
+-Listar total de conexões realizadas;
+
+## /
+- Rota para criar uma aula;
+- Rota para listar aulas;
+  --Filtrar por matéria, dia da semana, horário
+  
